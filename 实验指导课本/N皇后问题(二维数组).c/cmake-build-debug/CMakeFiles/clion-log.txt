@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/lixiang/CLionProjects/N皇后问题(二维数组).c
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/lixiang/CLionProjects/N皇后问题(二维数组).c/cmake-build-debug

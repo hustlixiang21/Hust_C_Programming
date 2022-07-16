@@ -1,0 +1,3 @@
+/Users/lixiang/CLionProjects/第二十关年月日计数（结构）.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lixiang/CLionProjects/第二十关年月日计数（结构）.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lixiang/CLionProjects/第二十关年月日计数（结构）.c/cmake-build-debug/CMakeFiles/_c.dir

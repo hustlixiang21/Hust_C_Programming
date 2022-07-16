@@ -1,0 +1,3 @@
+/Users/lixiang/CLionProjects/8.16.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lixiang/CLionProjects/8.16.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lixiang/CLionProjects/8.16.c/cmake-build-debug/CMakeFiles/8_16_c.dir

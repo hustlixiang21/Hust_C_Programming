@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lixiang/CLionProjects/汉诺塔问题.c/main.c
+stdio.h
+-
+stdlib.h
+/Users/lixiang/CLionProjects/汉诺塔问题.c/stdlib.h
+

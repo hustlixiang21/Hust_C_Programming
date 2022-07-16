@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lixiang/CLionProjects/string_func.h/library.c
+library.h
+/Users/lixiang/CLionProjects/string_func.h/library.h
+stdio.h
+-
+
+/Users/lixiang/CLionProjects/string_func.h/library.h
+

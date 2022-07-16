@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lixiang/ClionProjects/第28关.c/14.6.c
+stdio.h
+-
+
+/Users/lixiang/ClionProjects/第28关.c/main.c
+stdio.h
+-
+stdlib.h
+/Users/lixiang/ClionProjects/第28关.c/stdlib.h
+

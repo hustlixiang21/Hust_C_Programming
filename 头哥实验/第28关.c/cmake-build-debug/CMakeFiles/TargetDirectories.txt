@@ -1,0 +1,3 @@
+/Users/lixiang/ClionProjects/第28关.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lixiang/ClionProjects/第28关.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lixiang/ClionProjects/第28关.c/cmake-build-debug/CMakeFiles/28_c.dir

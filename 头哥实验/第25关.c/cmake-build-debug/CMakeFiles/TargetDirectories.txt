@@ -1,0 +1,3 @@
+/Users/lixiang/CLionProjects/头哥实验/第25关.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lixiang/CLionProjects/头哥实验/第25关.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lixiang/CLionProjects/头哥实验/第25关.c/cmake-build-debug/CMakeFiles/25_c.dir

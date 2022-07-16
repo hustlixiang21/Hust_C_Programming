@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lixiang/CLionProjects/shabi.c/file.h
+stdio.h
+-
+
+/Users/lixiang/CLionProjects/shabi.c/file2.c
+file.h
+/Users/lixiang/CLionProjects/shabi.c/file.h
+
+/Users/lixiang/CLionProjects/shabi.c/main.c
+file.h
+/Users/lixiang/CLionProjects/shabi.c/file.h
+

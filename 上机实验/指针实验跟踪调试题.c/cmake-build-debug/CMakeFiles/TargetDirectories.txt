@@ -1,0 +1,3 @@
+/Users/lixiang/CLionProjects/指针实验跟踪调试题.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lixiang/CLionProjects/指针实验跟踪调试题.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lixiang/CLionProjects/指针实验跟踪调试题.c/cmake-build-debug/CMakeFiles/_c.dir
